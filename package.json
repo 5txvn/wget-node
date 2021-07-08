@@ -1,0 +1,20 @@
+{
+  "name": "wget-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exoticchild/wget-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exoticchild/wget-node/issues"
+  },
+  "homepage": "https://github.com/exoticchild/wget-node#readme"
+}

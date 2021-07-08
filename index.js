@@ -1,0 +1,1 @@
+module.exports = url => (require('child_process').execSync)('wget ' + url).toString()
